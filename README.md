@@ -1,4 +1,4 @@
-# Workflow of genomic data visualization using PyGenomeTrack
+# Workflow for genomic data visualization using PyGenomeTrack
 
 The notebook contains a procedure to prepare the sequencing data for visualization of the region plots. 
 The workflow describes the tools to convert the files into the formats: BED6, BED12, BAM, and BIGWIG. Additionally, we formed the helper functions to create .ini files from scratch.
