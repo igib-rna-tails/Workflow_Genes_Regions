@@ -1,9 +1,9 @@
 # Workflow for genomic data visualization using PyGenomeTrack
 
-The notebook contains a procedure to prepare the sequencing data for visualization of the region plots. 
+[The notebook](https://github.com/igib-rna-tails/Workflow_Genes_Regions/blob/master/PGT_Workflow_LL.ipynb) contains a procedure to prepare the sequencing data for visualization of the region plots. 
 The workflow describes the tools to convert the files into the formats: BED6, BED12, BAM, and BIGWIG. Additionally, we formed the helper functions to create .ini files from scratch.
 
-__You can find the instruction and the exampes of plots in [PGT_Workflow_LL.ipynb](https://github.com/igib-rna-tails/Workflow_Genes_Regions/blob/master/PGT_Workflow_LL.ipynb)__
+### You can find the instruction and the examples of plots in [PGT_Workflow_LL.ipynb](https://github.com/igib-rna-tails/Workflow_Genes_Regions/blob/master/PGT_Workflow_LL.ipynb)
 
 The [PyGenomeTrack](https://github.com/deeptools/pyGenomeTracks) aims to produce high-quality genome browser tracks.
 
